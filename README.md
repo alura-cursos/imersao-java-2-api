@@ -6,7 +6,7 @@ Deve ser utilizado caso as APIs originais estejam instáveis ou fora do ar.
 
 ## Simulação das APIs do IMDb
 
-Caso a API do IMDB fique muito instável, vamos deixar algumas alternativas com um conteúdo semelhante para vocês:
+Caso a API do IMDb fique muito instável, vamos deixar algumas alternativas com um conteúdo semelhante para vocês:
 
 - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json
 - https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json
